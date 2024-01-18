@@ -179,6 +179,7 @@ section {
 .section__text {
   align-self: center;
   text-align: center;
+
 }
 
 .section__text p {
@@ -187,6 +188,7 @@ section {
 
 .section__text__p1 {
   text-align: center;
+
 }
 
 .section__text__p2 {
@@ -218,7 +220,8 @@ section {
 .btn-container {
   display: flex;
   justify-content: center;
-  gap: 1rem;
+  gap: 100rem;
+
 }
 
 .btn {
